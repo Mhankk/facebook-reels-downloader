@@ -18,7 +18,7 @@ $ git clone https://github.com/duongxthanh/facebook-reels-downloader.git
 # open the folder on terminal
 $ cd facebook-reels-downloader
 
-# Download [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/#stable) 
+# Download ChromeDriver (https://googlechromelabs.github.io/chrome-for-testing/#stable) 
 - Put the file inside the folder
 
 # install the requirements
