@@ -15,8 +15,11 @@ All the videos will be in MPEG-4 Part 14 (MP4 😉) format.
 # clone the repo
 $ git clone https://github.com/duongxthanh/facebook-reels-downloader.git
 
-# change the working directory to facebook-reels-downloader
+# open the folder on terminal
 $ cd facebook-reels-downloader
+
+# Download [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/#stable) 
+- Put the file inside the folder
 
 # install the requirements
 $ pip install -r requirements.txt
